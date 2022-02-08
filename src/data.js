@@ -2,50 +2,67 @@ export const projects = [
   {
     title: "Final Year Project",
     subtitle: "Voting dApp on Rinkeby Testnet",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    description: "",
     image: "./dApp.gif",
     link: "https://github.com/jmayanja-xyz/fyp_voting_dApp",
   },
   {
     title: "Playtech - Ryota",
     subtitle: "Front End Developer",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    description: "",
     image: "./PT-Hero-Animated.gif",
     link: "https://www.playtech.com/",
   },
   {
-    title: "Year 2 Project",
-    subtitle: "Laundry Android App",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "Year 2 - Group Android Project",
+    subtitle: "Laundry App",
+    description: "",
     image: "./Yr2_group_Project.png",
     link: "https://github.com/BrunelCS",
   },
   {
-    title: "Year 2 Project Prototype",
+    title: "Year 2 - Project Prototype",
     subtitle: "Laundry App Adobe XD",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    description: "",
     image: "./Adobe_XD.gif",
     link: "https://xd.adobe.com/view/2108e5e4-847c-4d51-7963-8442aa631fdf-5739/grid/",
+  },
+  {
+    title: "Year 1 - Finch Group Project",
+    subtitle: "Eclipse Java Project",
+    description: "",
+    image: "./Finch.gif",
+    link: "https://store.birdbraintechnologies.com/",
+  },
+
+  {
+    title: "Software Project Managemnet Prototype",
+    subtitle: "Student Banking App - Marvel App",
+    description: "",
+    image: "./Marvel_Banking.gif",
+    link: "https://marvelapp.com/prototype/16269824",
+  },
+  {
+    title: "Year 2 - Group Usability Project",
+    subtitle: "Banking System for Older People",
+    description:
+      "A group projet where we had to demo a TV system for the elderly. My role was to help make designs, build the prototype in MS Powerpoint and make a presentation ",
+    image: "./Elderly_Application.gif",
+    link: "https://www.youtube.com/watch?v=B3-GrL2z-yE",
   },
 ];
 
 export const skills = [
   "Java",
   "JavaScript",
-  "Typescript",
+  "TypeScript",
   "HTML",
   "CSS",
   "Sass",
   "React",
   "Angular",
   "Truffle",
-  "Next.js",
-  "Node",
-  "GraphQL",
+  "Node.js",
   "Material UI",
   "React Bootstrap",
   "Ethers",
@@ -54,4 +71,10 @@ export const skills = [
   "Github",
   "BitBucket",
   "Metamask",
+  "Android Studios",
+  "Adobe Photoshop",
+  "Adobe Illustrator",
+  "Adobe XD",
+  "Marvel App",
+  "Agile",
 ];
