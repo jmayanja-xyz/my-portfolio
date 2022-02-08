@@ -1,60 +1,57 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Final Year Project",
+    subtitle: "Voting dApp on Rinkeby Testnet",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./dApp.gif",
+    link: "https://github.com/jmayanja-xyz/fyp_voting_dApp",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Playtech - Ryota",
+    subtitle: "Front End Developer",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./PT-Hero-Animated.gif",
+    link: "https://www.playtech.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Year 2 Project",
+    subtitle: "Laundry Android App",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Yr2_group_Project.png",
+    link: "https://github.com/BrunelCS",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Year 2 Project Prototype",
+    subtitle: "Laundry App Adobe XD",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    image: "./Adobe_XD.gif",
+    link: "https://xd.adobe.com/view/2108e5e4-847c-4d51-7963-8442aa631fdf-5739/grid/",
   },
 ];
 
 export const skills = [
+  "Java",
   "JavaScript",
+  "Typescript",
+  "HTML",
+  "CSS",
+  "Sass",
   "React",
+  "Angular",
+  "Truffle",
   "Next.js",
   "Node",
   "GraphQL",
   "Material UI",
+  "React Bootstrap",
+  "Ethers",
+  "Solidity",
+  "Unit Testing",
+  "Github",
+  "BitBucket",
+  "Metamask",
 ];
