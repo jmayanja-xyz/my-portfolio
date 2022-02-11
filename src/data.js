@@ -73,7 +73,7 @@ export const skills = [
   "HTML",
   "CSS",
   "Node.js",
-  "Material UI",
+  "TailWind CSS",
   "React Bootstrap",
   "Ethers",
   "Solidity",
